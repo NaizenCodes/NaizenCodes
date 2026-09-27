@@ -24,6 +24,10 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naizencodes&show_icons=true&locale=en" alt="naizencodes" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naizencodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="naizencodes GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naizencodes&" alt="naizencodes" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=naizencodes&theme=tokyonight&hide_border=true" alt="naizencodes GitHub Streak" />
+</p>
