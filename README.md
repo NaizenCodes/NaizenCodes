@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **TS, React.js, Next.js**
 
-- 📫 How to reach me **demha.sifan.99@gmail.com**
+- 📫 How to reach me: **demha.sifan.99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
