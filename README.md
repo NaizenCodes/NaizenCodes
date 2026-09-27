@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naizencodes/naizencodes/main/banner.png" width="100%" alt="Banner"/>
+</p>
 <h1 align="center">Hi 👋, I'm Nafis Ahmed</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
