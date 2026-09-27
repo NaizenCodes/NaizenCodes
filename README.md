@@ -38,7 +38,11 @@
 
 <p align="center">
   <i>"Most of the grand mysteries of the universe remain unsolved. Nature loves mystery; it does not quite like the resolution of mysteries.."</i><br>
-  — Humayun Ahmed
+  <em>— Humayun Ahmed</em>
+</p>
+<p align="center">
+  <i>"The best error message is the one that never shows up."</i><br>
+  — Thomas Fuchs
 </p>
 
 ---
