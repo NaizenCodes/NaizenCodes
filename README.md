@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naizencodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="naizencodes GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naizencodes&show_icons=true&theme=tokyonight&hide_border=true" alt="naizencodes GitHub Stats" />
 </p>
 
 <p align="center">
