@@ -34,3 +34,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=naizencodes&theme=tokyonight&hide_border=true" alt="naizencodes GitHub Streak" />
 </p>
+---
+
+<p align="center">
+  <i>"Most of the grand mysteries of the universe remain unsolved. Nature loves mystery; it does not quite like the resolution of mysteries.."</i><br>
+  — Humayun Ahmed
+</p>
+
+---
